@@ -3,8 +3,8 @@
     var board = ""; 
     
     var remainingGuesses = 6; 
-    var words = ["snake", "monkey", "beetle"]; 
-    var words1 = ["dangerous" , "funny" ,"top song"];
+    var words = ["snake", "csumb", "beetle", ]; 
+    var words1 = ["scary" , "college's name" ,"Beat All"];
     
     console.log(words[0]); 
     
